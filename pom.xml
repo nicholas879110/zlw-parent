@@ -55,7 +55,7 @@
         <poi.version>4.1.0</poi.version>
 
         <!--json version-->
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.10.0</jackson.version>
 
         <!--web相关-->
         <servlet-api-version>2.5</servlet-api-version>
