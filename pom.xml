@@ -13,7 +13,7 @@
         <!--shiro version-->
         <shiro.version>1.4.1</shiro.version>
         <!--spring security version-->
-        <spring.security.version>5.1.5.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
         <!--mybatise相关version-->
         <mybatis.version>3.5.1</mybatis.version>
         <mybatis-spring.version>2.0.1</mybatis-spring.version>
