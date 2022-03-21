@@ -64,7 +64,7 @@
         <jsp-api.version>2.2</jsp-api.version>
 
         <!--dubbo相关-->
-        <dubbo.version>2.6.4</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zookeeper.version>3.4.9</zookeeper.version>
         <zkclient.version>0.1</zkclient.version>
 
